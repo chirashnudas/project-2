@@ -254,7 +254,7 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
-    link: "https://www.linkedin.com/in/chirashnu-das",
+    link: "https://www.linkedin.com/in/chirashnudas/",
   },
   {
     name: "github",
