@@ -244,18 +244,22 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
+    link: "https://www.instagram.com/chirashnu_das", 
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    link: "https://twitter.com/chirashnu_das", 
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    link: "https://www.linkedin.com/in/chirashnu-das",
+  },
+  {
+    name: "github",
+    imgPath: "/images/fb.png", 
+    link: "https://github.com/chirashnu1",
   },
 ];
 
