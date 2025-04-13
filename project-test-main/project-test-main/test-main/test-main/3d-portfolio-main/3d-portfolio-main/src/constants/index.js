@@ -244,12 +244,12 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
-    link: "https://www.instagram.com/chirashnu_das", 
+    link: "https://www.instagram.com/amledcopperfield/", 
   },
   {
-    name: "x",
+    name: "Resume",
     imgPath: "/images/x.png",
-    link: "https://twitter.com/chirashnu_das", 
+    link: "https://drive.google.com/drive/folders/161AeaUOV4GC14z76TySibJFrar8dGHdW?usp=drive_link", 
   },
   {
     name: "linkedin",
