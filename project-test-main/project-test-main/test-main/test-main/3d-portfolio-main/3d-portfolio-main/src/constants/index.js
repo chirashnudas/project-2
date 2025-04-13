@@ -13,7 +13,7 @@ const navLinks = [
   },
   {
     name: "Projects",
-    link: "#testimonials",
+    link: "#projects",
   },
 ];
 
