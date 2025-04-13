@@ -259,7 +259,7 @@ const socialImgs = [
   {
     name: "github",
     imgPath: "/images/fb.png", 
-    link: "https://github.com/chirashnu1",
+    link: "https://github.com/Chirashnu1",
   },
 ];
 
